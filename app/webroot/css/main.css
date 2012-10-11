@@ -101,6 +101,7 @@ h4, .title4 { margin:16px 0 12px 0;font-size:24px; }
 	height:100%;
 	background:#666;
 	margin-left:23%;
+	z-index:1;
 }
 .sub_ #menu { left:0 }
 #menu li {
